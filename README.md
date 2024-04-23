@@ -1,4 +1,4 @@
-#This project is helped by two more person Kanika Yadav & Sakshi Srivastava
+# This project is helped by two more person Kanika Yadav & Sakshi Srivastava
 
 Techinal Requirement :
 Check that your camera is working properly so that it should record video properly
@@ -7,6 +7,7 @@ Check that your camera is working properly so that it should record video proper
 3. Install Opencv and update to its latest version
 4. Install Pixellib
 5. Install Skikit-learn library
-   Now you can run code
+
+   #  Now you can run code
    At this time it will segment video only it will not mark the object
    model training is left that we are doing currently
