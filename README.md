@@ -1,4 +1,4 @@
-# This project is helped by two more person Kanika Yadav & Sakshi Srivastava
+# This is group project contributed by two more person Kanika Yadav & Sakshi Srivastava
 
 Techinal Requirement :
 Check that your camera is working properly so that it should record video properly
